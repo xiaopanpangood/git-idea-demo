@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("master添加新内容777");
         System.out.println("dev分支添加新内容777");
         System.out.println("添加内容88888");
+
+        System.out.println("代码新增,推送");
     }
 }
