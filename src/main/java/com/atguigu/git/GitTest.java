@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("添加内容88888");
 
         System.out.println("代码新增,推送");
+        System.out.println("提交备注6666");
     }
 }
